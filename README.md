@@ -1,0 +1,2 @@
+# Aloooo_YA_SWE
+PROJECT FOR SWE
